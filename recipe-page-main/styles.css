@@ -115,6 +115,7 @@ article {
     color: var(--Dark-Raspberry);
     font-weight: 700;
     margin-bottom: 1rem;
+    font-size: 1.25rem;
   }
   li {
     color: var(--Wenge-Brown);
